@@ -116,6 +116,9 @@ It includes:
 
 📂 Repository Structure
 
+📂 Repository Structure
+
+```
 DSA-Learning-In-CPP/
 │
 ├── Lect 1/
@@ -162,7 +165,7 @@ DSA-Learning-In-CPP/
 ├── cp_template.cpp
 └── README.md
 
----
+```
 
 ## 🎯 Purpose
 
